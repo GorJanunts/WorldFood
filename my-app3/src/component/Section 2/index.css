@@ -1,0 +1,385 @@
+.section2div{
+    background-color: #2C2C2C;
+    width: 100%;
+    height: 1800px;
+    display: inline-block;
+}
+.worldmenu{
+    font-family: Arial Black;
+    font-size: 45px;
+    color: #d9d9d9;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.evr{
+    font-family: Segoe Script;
+    font-size: 45px;
+    color: #d9d9d9;
+    text-align: center;
+    margin-top: -25px;
+    margin-left: 150px;
+}
+.trash{
+    display: inline-block;
+    cursor: pointer;
+    width: 70px;
+    height: 85px;
+    position: relative;
+    left: 1400px;
+    bottom: 150px;
+    transition: 0.2s;
+}
+.trashimg{
+    width: 60px;
+    height: 60px;
+    background-image: url(../img/trash-4-512.png);
+    background-size: 100% 100%;
+    margin-bottom: 0px;
+    transition: 1s;
+    margin: 0 auto;
+}.trashimg:hover{
+    width: 70px;
+    height: 70px;
+}
+.div2{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -50px;
+}
+.mek{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1{
+    background-image: url(../img/pizza.png);
+    width: 350px;
+    height: 350px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+}.img1:hover{
+    width: 370px;
+    height: 370px;
+}
+.erku{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img2{
+    background-image: url(../img/fastfood.png);
+    width: 350px;
+    height: 350px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+}.img2:hover{
+    width: 370px;
+    height: 370px;
+}
+.div22{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+.mek2{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img3{
+    background-image: url(../img/sushi.png);
+    width: 350px;
+    height: 350px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+}.img3:hover{
+    width: 370px;
+    height: 370px;
+}
+.erku2{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img4{
+    background-image: url(../img/pasta.png);
+    width: 350px;
+    height: 350px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+}.img4:hover{
+    width: 370px;
+    height: 370px;
+}
+.div23{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+.mek3{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img5{
+    background-image: url(../img/fish.png);
+    width: 350px;
+    height: 350px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+}.img5:hover{
+    width: 370px;
+    height: 370px;
+}
+.erku3{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img6{
+    background-image: url(../img/itpizza.jpg);
+    width: 350px;
+    height: 350px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+}.img6:hover{
+    width: 370px;
+    height: 370px;
+}
+.more{
+    color: #FF0000;
+    font-family: Arial Black;
+    cursor: pointer;
+    margin-top: 100px;
+    text-align: center;
+}
+.btn1{
+    width: 200px;
+    height: 45px;
+    margin-top: -50px;
+    cursor: pointer;
+    margin-left: 100px;
+    background-color: #FF0000;
+    color: #d9d9d9;
+    border: none;
+    border-radius: 50px;
+    font-family: Arial Black;
+    font-size: 22px;
+    transition: 0.5s;
+}.btn1:hover{
+    color: #2C2C2C;
+    background-color: #d9d9d9;
+    border: 1px solid #2C2C2C;
+}
+.btn2{
+    width: 200px;
+    height: 45px;
+    margin-top: -50px;
+    cursor: pointer;
+    margin-left: 100px;
+    background-color: #FF0000;
+    color: #d9d9d9;
+    border: none;
+    border-radius: 50px;
+    font-family: Arial Black;
+    font-size: 22px;
+    transition: 0.5s;
+}.btn2:hover{
+    color: #2C2C2C;
+    background-color: #d9d9d9;
+    border: 1px solid #2C2C2C;
+}
+.btn3{
+    width: 200px;
+    height: 45px;
+    margin-top: -50px;
+    cursor: pointer;
+    margin-left: 100px;
+    background-color: #FF0000;
+    color: #d9d9d9;
+    border: none;
+    border-radius: 50px;
+    font-family: Arial Black;
+    font-size: 22px;
+    transition: 0.5s;
+}.btn3:hover{
+    color: #2C2C2C;
+    background-color: #d9d9d9;
+    border: 1px solid #2C2C2C;
+}
+.btn4{
+    width: 200px;
+    height: 45px;
+    margin-top: -50px;
+    cursor: pointer;
+    margin-left: 100px;
+    background-color: #FF0000;
+    color: #d9d9d9;
+    border: none;
+    border-radius: 50px;
+    font-family: Arial Black;
+    font-size: 22px;
+    transition: 0.5s;
+}.btn4:hover{
+    color: #2C2C2C;
+    background-color: #d9d9d9;
+    border: 1px solid #2C2C2C;
+}
+.btn5{
+    width: 200px;
+    height: 45px;
+    margin-top: -50px;
+    cursor: pointer;
+    margin-left: 100px;
+    background-color: #FF0000;
+    color: #d9d9d9;
+    border: none;
+    border-radius: 50px;
+    font-family: Arial Black;
+    font-size: 22px;
+    transition: 0.5s;
+}.btn5:hover{
+    color: #2C2C2C;
+    background-color: #d9d9d9;
+    border: 1px solid #2C2C2C;
+}
+.btn6{
+    width: 200px;
+    height: 45px;
+    margin-top: -50px;
+    cursor: pointer;
+    margin-left: 100px;
+    background-color: #FF0000;
+    color: #d9d9d9;
+    border: none;
+    border-radius: 50px;
+    font-family: Arial Black;
+    font-size: 22px;
+    transition: 0.5s;
+}.btn6:hover{
+    color: #2C2C2C;
+    background-color: #d9d9d9;
+    border: 1px solid #2C2C2C;
+}
+@media only screen and (max-width: 1500px) {
+    .trash{
+        left: 1200px;
+    }
+}
+@media only screen and (max-width: 1380px) {
+    .trash{
+        left: 1100px;
+    }
+}
+@media only screen and (max-width: 1260px) {
+    .section2div{
+        height: 3350px;
+    }
+    .trash{
+        left: 1000px;
+    }
+    .div2{
+        width: 450px;
+        height: 920px;
+        display: block;
+    }
+    .mek{
+        margin: 0 auto;
+    }
+    .btn1{
+        margin-left: 130px;
+    }
+    .erku{
+        margin: 0 auto;
+        margin-top: 60px;
+    }
+    .btn2{
+        margin-left: 130px;
+    }
+    .div22{
+        width: 450px;
+        height: 920px;
+        display: block;
+    }
+    .mek2{
+        margin: 0 auto;
+    }
+    .btn3{
+        margin-left: 130px;
+    }
+    .erku2{
+        margin: 0 auto;
+        margin-top: 60px;
+    }
+    .btn4{
+        margin-left: 130px;
+    }
+    .div23{
+        width: 450px;
+        height: 920px;
+        display: block;
+    }
+    .mek3{
+        margin: 0 auto;
+    }
+    .btn5{
+        margin-left: 130px;
+    }
+    .erku3{
+        margin: 0 auto;
+        margin-top: 60px;
+    }
+    .btn6{
+        margin-left: 130px;
+    }
+}
+@media only screen and (max-width: 1160px) {
+    .trash{
+        left: 900px;
+    }
+}
+@media only screen and (max-width: 1035px) {
+    .trash{
+        left: 800px;
+    }
+}
+@media only screen and (max-width: 944px) {
+    .trash{
+        left: 400px;
+        bottom: 30px;
+    }
+}

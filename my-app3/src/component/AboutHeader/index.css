@@ -1,0 +1,135 @@
+.headerdiva{
+    width: 100%;
+    height: 100px;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+}
+.logoa{
+    background-image: url(../img/logo.png);
+    width: 300px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: 50px;
+    transition: 0.2s;
+}
+.menua{
+    display: inline-block;
+    margin-left: 150px;
+    transition: 0.2s;
+}
+.menuULa{
+    display: flex;
+    flex-direction: row;
+    font-family: Arial Black;
+    font-size: 20px;
+}
+.menuLI1a{
+    margin-left: 40px;
+    cursor: pointer;
+    list-style-type: none;
+    color: black;
+    transition: 0.2s;
+}.menuLI1a:hover{
+    color: #FF0000;
+}
+.menuLI2a{
+    margin-left: 40px;
+    cursor: pointer;
+    list-style-type: none;
+    transition: 0.2s;
+    color: black;
+}.menuLI2a:hover{
+    color: #FF0000;
+}
+.menuLI3a{
+    margin-left: 40px;
+    cursor: pointer;
+    list-style-type: none;
+    transition: 0.2s;
+    color: #FF0000;
+}
+.menuLI4a{
+    margin-left: 40px;
+    cursor: pointer;
+    list-style-type: none;
+    transition: 0.2s;
+    color: black;
+}.menuLI4a:hover{
+    color: #FF0000;
+}
+.link1a{
+    list-style-type: none;
+    text-decoration: none;
+}
+.link2a{
+    list-style-type: none;
+    text-decoration: none;
+}
+.link3a{
+    list-style-type: none;
+    text-decoration: none;
+}
+.link4a{
+    list-style-type: none;
+    text-decoration: none;
+}
+.seca{
+    margin-left: 200px;
+    border: 2px solid #FF0000;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+@media only screen and (max-width: 1510px) {
+    .menua{
+        margin-left: 50px;
+    }
+    .seca{
+        margin-left: 130px;
+    }
+}
+@media only screen and (max-width: 1297px) {
+    .menua{
+        margin-left: 0px;
+    }
+    .seca{
+        margin-left: 80px;
+    }
+}
+@media only screen and (max-width: 1260px) {
+    .logoa{
+        margin-left: 0px;
+    }
+    .headerdiva{
+        height: 200px;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .menua{
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .seca{
+        margin-left: 0px;
+    }
+}
+@media only screen and (max-width: 1191px) {
+    .headerdiva{
+        height: 220px;
+    }
+    .logoa{
+        margin-left: 0px;
+    }
+    .menua{
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-right: 80px;
+    }
+    .seca{
+        margin-left: 0px;
+        margin-right: 20px;
+    }
+}

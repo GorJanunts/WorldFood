@@ -1,0 +1,216 @@
+.section2divps{
+    background-color: #2C2C2C;
+    width: 100%;
+    height: 1400px;
+    display: inline-block;
+}
+.worldmenups{
+    font-family: Arial Black;
+    font-size: 45px;
+    color: #d9d9d9;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.trashps{
+    display: inline-block;
+    cursor: pointer;
+    width: 70px;
+    height: 85px;
+    position: relative;
+    left: 1400px;
+    bottom: 70px;
+    transition: 1s;
+}
+.trashimgps{
+    width: 60px;
+    height: 60px;
+    background-image: url(../img/trash-4-512.png);
+    background-size: 100% 100%;
+    margin-bottom: 0px;
+    transition: 1s;
+    margin: 0 auto;
+}.trashimgps:hover{
+    width: 70px;
+    height: 70px;
+}
+.div2ps{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.mekps{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1ps{
+    background-image: url(../img/mike-kenneally-TD4DBagg2wE-unsplash.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img1ps:hover{
+    width: 340px;
+    height: 340px;
+}
+.erkups{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img2ps{
+    background-image: url(../img/elza-kurbanova-NEab1U1FfKM-unsplash.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img2ps:hover{
+    width: 340px;
+    height: 340px;
+}
+.div22ps{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+}
+.mek2ps{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img3ps{
+    background-image: url(../img/rikonavt-oEWdQsbRVZk-unsplash.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img3ps:hover{
+    width: 340px;
+    height: 340px;
+}
+.erku2ps{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img4ps{
+    background-image: url(../img/daria-nepriakhina-xY55bL5mZAM-unsplash.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img4ps:hover{
+    width: 340px;
+    height: 340px;
+}
+.div23ps{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+}
+.mek3ps{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img5ps{
+    background-image: url(../img/pizza.png);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img5ps:hover{
+    width: 340px;
+    height: 340px;
+}
+.erku3ps{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img6ps{
+    background-image: url(../img/itpizza.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img6ps:hover{
+    width: 340px;
+    height: 340px;
+}
+.pizzanames{
+    font-family: Arial Black;
+    font-size: 28px;
+    text-align: center;
+    margin-top: -48px;
+}
+.infos{
+    font-family: Arial Black;
+    text-align: center;
+    color: #FF0000;
+    margin-top: -15px;
+}
+.pbtn1s{
+    width: 150px;
+    height: 40px;
+    margin-top: -20px;
+    cursor: pointer;
+    margin-left: 35px;
+    background-color: #FF0000;
+    color: #d9d9d9;
+    border: none;
+    border-radius: 20px;
+    font-family: Arial Black;
+    font-size: 22px;
+}
+.pbtn2s{
+    width: 150px;
+    height: 40px;
+    margin-top: -20px;
+    cursor: pointer;
+    margin-left: 15px;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 20px;
+    font-family: Arial Black;
+    font-size: 22px;
+}

@@ -1,0 +1,341 @@
+.footerdiv{
+    background-color: #303030;
+    width: 100%;
+    height: 400px;
+    bottom: 13px;
+    position: relative;
+    display: inline-block;
+}
+.ulf{
+    font-family: Arial Black;
+    font-size: 25px;
+    color: #8D8D8D;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.lif1{
+    margin-left: 70px;
+}
+.lif2{
+    margin-left: 200px;
+}
+.lif3{
+    margin-left: 250px;
+}
+.ulf2{
+    font-family: Arial Black;
+    font-size: 20px;
+    color: #AEAEAE;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+}
+.lif12{
+    margin-left: 100px;
+    cursor: pointer;
+}
+.lif22{
+    margin-left: 200px;
+    cursor: pointer;
+}
+.lif32{
+    margin-left: 150px;
+    cursor: pointer;
+}
+.ulf3{
+    font-family: Arial Black;
+    font-size: 25px;
+    color: #8D8D8D;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+.lif13{
+    margin-left: 70px;
+}
+.lif23{
+    margin-left: 180px;
+}
+.lif33{
+    margin-left: 100px;
+}
+.social{
+    width: 220px;
+    height: 40px;
+    margin-left: 200px;
+    display: inline-block;
+    margin-top: 0px;
+}
+.faclogo{
+    width: 40px;
+    height: 40px;
+    background-image: url(../img/faclogo.png);
+    cursor: pointer;
+    background-size: 100% 100%;
+    display: inline-block;
+}
+.instlogo{
+    width: 40px;
+    height: 40px;
+    background-image: url(../img/instlogo.png);
+    cursor: pointer;
+    background-size: 100% 100%;
+    margin-left: 20px;
+    display: inline-block;
+}
+.gologo{
+    width: 40px;
+    height: 40px;
+    background-image: url(../img/gologo.png);
+    cursor: pointer;
+    background-size: 100% 100%;
+    margin-left: 20px;
+    display: inline-block;
+}
+.twlogo{
+    width: 40px;
+    height: 40px;
+    background-image: url(../img/twlogo.png);
+    cursor: pointer;
+    background-size: 100% 100%;
+    margin-left: 20px;
+    display: inline-block;
+}
+.stalk{
+    background-image: url(../img/stalklogo.png);
+    width: 220px;
+    height: 60px;
+    background-size: 100% 100%;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 270px;
+    margin-top: 0px;
+}
+.dow{
+    background-image: url(../img/dowlogo.png);
+    width: 150px;
+    height: 100px;
+    background-size: 100% 100%;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+.sostalk{
+    display: flex;
+    flex-direction: row;
+}
+.end{
+    width: 100%;
+    height: 50px;
+    background-color: #464646;
+    display: flex;
+    align-items: center;
+}
+.verj{
+    color: #AEAEAE;
+    font-family: Arial Black;
+    margin-left: 20px;
+}
+@media only screen and (max-width: 1400px) {
+    .lif1{
+        margin-left: 20px;
+    }
+    .lif2{
+        margin-left: 150px;
+    }
+    .lif3{
+        margin-left: 200px;
+    }
+    .lif12{
+        margin-left: 50px;
+    }
+    .lif22{
+        margin-left: 150px;
+    }
+    .lif32{
+        margin-left: 50px;
+    }
+    .lif13{
+        margin-left: 20px;
+    }
+    .lif23{
+        margin-left: 70px;
+    }
+    .lif33{
+        margin-left: 50px;
+    }
+    .social{
+        margin-left: 150px;
+    }
+    .stalk{
+        margin-left: 170px;
+    }
+    .dow{
+        margin-left: 150px;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .ulf{
+        font-size: 20px;
+    }
+    .ulf2{
+        font-size: 15px;
+    }
+    .ulf3{
+        font-size: 20px;
+    }
+    .lif1{
+        margin-left: 50px;
+    }
+    .lif2{
+        margin-left: 200px;
+    }
+    .lif3{
+        margin-left: 200px;
+    }
+    .lif12{
+        margin-left: 100px;
+    }
+    .lif22{
+        margin-left: 200px;
+    }
+    .lif32{
+        margin-left: 100px;
+    }
+    .lif13{
+        margin-left: 50px;
+    }
+    .lif23{
+        margin-left: 70px;
+    }
+    .lif33{
+        margin-left: 100px;
+    }
+    .social{
+        margin-left: 120px;
+    }
+    .stalk{
+        margin-left: 100px;
+    }
+    .dow{
+        margin-left: 120px;
+    }
+    .end{
+        margin-top: 18px;
+    }
+}
+@media only screen and (max-width: 1085px) {
+    .ulf{
+        font-size: 15px;
+    }
+    .ulf2{
+        font-size: 15px;
+    }
+    .ulf3{
+        font-size: 15px;
+    }
+    .lif1{
+        margin-left: 0px;
+    }
+    .lif2{
+        margin-left: 200px;
+    }
+    .lif3{
+        margin-left: 200px;
+    }
+    .lif12{
+        margin-left: 0px;
+    }
+    .lif22{
+        margin-left: 110px;
+    }
+    .lif32{
+        margin-left: 100px;
+    }
+    .lif13{
+        margin-left: 0px;
+    }
+    .lif23{
+        margin-left: 70px;
+    }
+    .lif33{
+        margin-left: 100px;
+    }
+    .social{
+        margin-left: 40px;
+    }
+    .stalk{
+        margin-left: 50px;
+    }
+    .dow{
+        margin-left: 100px;
+    }
+    .end{
+        margin-top: 32px;
+    }
+    .verj{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 871px) {
+    .footerdiv{
+        width: 0px;
+        height: 0px;
+        position: none;
+    }
+    .ulf{
+        font-size: 0px;
+    }
+    .ulf2{
+        font-size: 0px;
+    }
+    .ulf3{
+        font-size: 0px;
+    }
+    .social{
+        margin-left: 0px;
+        width: 0px;
+        height: 0px;
+    }
+    .faclogo{
+        width: 0px;
+        height: 0px;
+    }
+    .instlogo{
+        width: 0px;
+        height: 0px;
+    }
+    .twlogo{
+        width: 0px;
+        height: 0px;
+    }
+    .gologo{
+        width: 0px;
+        height: 0px;
+    }
+    .stalk{
+        margin-left: 0px;
+        width: 0px;
+        height: 0px;
+    }
+    .dow{
+        margin-left: 0px;
+        width: 0px;
+        height: 0px;
+    }
+    .end{
+        margin-top: 0px;
+        width: 0px;
+        height: 0px;
+    }
+    .verj{
+        font-size: 0px;
+    }
+}

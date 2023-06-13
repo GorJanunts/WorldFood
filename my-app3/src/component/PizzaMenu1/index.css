@@ -1,0 +1,216 @@
+.section2divp{
+    background-color: #2C2C2C;
+    width: 100%;
+    height: 1900px;
+    display: inline-block;
+}
+.worldmenup{
+    font-family: Arial Black;
+    font-size: 45px;
+    color: #d9d9d9;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.trashp{
+    display: inline-block;
+    cursor: pointer;
+    width: 70px;
+    height: 85px;
+    position: relative;
+    left: 1400px;
+    bottom: 70px;
+    transition: 1s;
+}
+.trashimgp{
+    width: 60px;
+    height: 60px;
+    background-image: url(../img/trash-4-512.png);
+    background-size: 100% 100%;
+    margin-bottom: 0px;
+    transition: 1s;
+    margin: 0 auto;
+}.trashimgp:hover{
+    width: 70px;
+    height: 70px;
+}
+.div2p{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.mekp{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1p{
+    background-image: url(../img/pizza.png);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img1p:hover{
+    width: 340px;
+    height: 340px;
+}
+.erkup{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img2p{
+    background-image: url(../img/itpizza.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img2p:hover{
+    width: 340px;
+    height: 340px;
+}
+.div22p{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+}
+.mek2p{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img3p{
+    background-image: url(../img/fernando-andrade-_P76trHTWDE-unsplash.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img3p:hover{
+    width: 340px;
+    height: 340px;
+}
+.erku2p{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img4p{
+    background-image: url(../img/pinar-kucuk-Ae7jQFDTPk4-unsplash.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img4p:hover{
+    width: 340px;
+    height: 340px;
+}
+.div23p{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+}
+.mek3p{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img5p{
+    background-image: url(../img/sahal-hameed-Nq9KlQTTEbQ-unsplash.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img5p:hover{
+    width: 340px;
+    height: 340px;
+}
+.erku3p{
+    background-color: #d9d9d9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img6p{
+    background-image: url(../img/the-nix-company-ljvm17bH-e0-unsplash.jpg);
+    width: 320px;
+    height: 320px;
+    background-size: 100% 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 30px;
+}.img6p:hover{
+    width: 340px;
+    height: 340px;
+}
+.pizzaname{
+    font-family: Arial Black;
+    font-size: 28px;
+    text-align: center;
+    margin-top: -48px;
+}
+.info{
+    font-family: Arial Black;
+    text-align: center;
+    color: #FF0000;
+    margin-top: -15px;
+}
+.pbtn1{
+    width: 150px;
+    height: 40px;
+    margin-top: -20px;
+    cursor: pointer;
+    margin-left: 35px;
+    background-color: #FF0000;
+    color: #d9d9d9;
+    border: none;
+    border-radius: 20px;
+    font-family: Arial Black;
+    font-size: 22px;
+}
+.pbtn2{
+    width: 150px;
+    height: 40px;
+    margin-top: -20px;
+    cursor: pointer;
+    margin-left: 15px;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 20px;
+    font-family: Arial Black;
+    font-size: 22px;
+}

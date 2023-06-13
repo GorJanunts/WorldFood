@@ -1,0 +1,108 @@
+.section1divd{
+    background-color: black;
+    width: 100%;
+    height: 600px;
+    display: inline-block;
+    
+}
+.onlineh1d{
+    color: #d9d9d9;
+    font-size: 55px;
+    font-family: Arial Black;
+    left: 100px;
+    bottom: 20px;
+    position: relative;
+    display: inline-block;
+    transition: 0.2s;
+}
+.bigimgd{
+    background-image: url(../img/sk-CK6tjAIMJWM-unsplash.jpg);
+    width: 650px;
+    height: 450px;
+    background-size: 100% 100%;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 250px;
+    transition: 0.2s;
+}
+.menu2d{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    position: relative;
+    left: 170px;
+    bottom: 120px;
+    transition: 0.2s;
+}
+.jamd{
+    color: #FF0000;
+    font-size: 36px;
+    font-family: Arial Black;
+    text-align: right;
+    margin-bottom: 0px;
+}
+.menu2ULd{
+    list-style: none;
+    font-size: 30px;
+    font-family: Arial Black;
+    margin-top: 0px;
+    text-align: right;
+}
+.menu2LI1d{
+    color: #d9d9d9;
+    cursor: pointer;
+    transition: 0.3s;
+}.menu2LI1d:hover{
+    color: #5B5B5B;
+}
+.menu2LI2d{
+    color: #d9d9d9;
+    cursor: pointer;
+    transition: 0.3s;
+}.menu2LI2d:hover{
+    color: #5B5B5B;
+}
+.menu2LI3d{
+    color: #5B5B5B;
+    cursor: pointer;
+    transition: 0.3s;
+}
+@media only screen and (max-width: 1510px) {
+    .bigimgd{
+        left: 150px;
+    }
+    .menu2d{
+        left: 0px;
+    }
+}
+@media only screen and (max-width: 1260px) {
+    .section1divd{
+        height: 1000px;
+        display: flex;
+        flex-direction: column;
+    }
+    .onlineh1d{
+        margin: 0 auto;
+        left: 0px;
+        bottom: 0px;
+        margin-top: 70px;
+    }
+    .bigimgd{
+        width: 458px;
+        height: 380px;
+        left: 0px;
+        top: 20px;
+        margin: 0 auto;
+    }
+    .menu2d{
+        left: 0px;
+        bottom: 0px;
+        top: 0px;
+        margin: 0 auto;
+    }
+}
+.shopslinkd{
+    list-style-type: none;
+    text-decoration: none;
+}
